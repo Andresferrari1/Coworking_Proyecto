@@ -413,7 +413,7 @@ h2{
     color: #010430;
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 768px){
     .menu{
         flex-direction: column;
         justify-content: center;
@@ -461,7 +461,7 @@ h2{
         padding-top: 130px;
         text-align: center;
     } .main img{
-        width: min(60%, 250px);
+        width: min(40%, 150px);
     }
     .info_content__p,
     .opacid{
@@ -479,6 +479,27 @@ h2{
     .portafolio .container {
         flex-direction: column;
         display: flex;
+    }
+
+
+    .portafolio .card{
+        width: 50%;
+        height: 50%;
+        padding-bottom: 20px;
+    }
+    .portafolio .card img{
+            width: 100%;
+            height: 200px;        
+    }
+
+    .portafolio .card .proyecto{
+        border-radius: 8px;
+        color: #000000;
+        background-color: rgb(11, 141, 141) ;
+        padding: 8px;
+        border: none;
+        cursor: pointer;
+        font-weight: 600;
     }
     .contacto_form{
         width: 80vw;
