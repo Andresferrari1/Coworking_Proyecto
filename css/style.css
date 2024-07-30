@@ -413,7 +413,7 @@ h2{
     color: #010430;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1024px){
     .menu{
         flex-direction: column;
         justify-content: center;
