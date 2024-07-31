@@ -520,6 +520,9 @@ h2{
         cursor: pointer;
         font-weight: 600;
     }
+    .contacto_section{
+        padding-top: 20px;
+    }
     .contacto_form{
         padding: 30px;        
     }
