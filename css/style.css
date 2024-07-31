@@ -395,9 +395,10 @@ h2{
     
 }
 
-.footer-content h5{
-    font-size: 1.5em;
+.footer-content h5, h6{
+    font-size: 4vw;
     color: rgb(0, 22, 22);
+    padding: 2px;
 }
 
 .redes{
