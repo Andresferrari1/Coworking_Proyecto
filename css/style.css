@@ -429,7 +429,7 @@ h2{
         transition: all .7s ease-in-out;
     } 
     .wrapper{
-        height: 100vw;
+        height: 150vw;
         width: 100vw;
     }
     .show-menu{
@@ -487,8 +487,8 @@ h2{
 
 
     .portafolio .card{
-        width: 50%;
-        height: 50%;
+        width: 70%;
+        height: 70%;
         padding-bottom: 20px;
     }
     .portafolio .card img{
@@ -506,7 +506,7 @@ h2{
         font-weight: 600;
     }
     .contacto_form{
-        width: 50vw;
+        width: 70vw;
         padding: 30px;
         
     }
@@ -518,7 +518,7 @@ h2{
         padding: 10px;
         border: 2px solid #584545;
         border-radius: 30px 5px;
-        width: 50vw;
+        width: 70vw;
     }
 }
 
