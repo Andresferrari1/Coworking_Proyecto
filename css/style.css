@@ -227,7 +227,7 @@ h2{
 
 .card{
 
-    background-color: #193019;
+    background-color: #262027;
     width: 400px;
     height: 450px;
     margin: 15px;
@@ -396,7 +396,7 @@ h2{
 }
 
 .footer-content h5, h6{
-    font-size: 4vw;
+    font-size: 1.5em;
     color: rgb(0, 22, 22);
     padding: 2px;
 }
@@ -568,6 +568,9 @@ h2{
 .form_class button{
     font-size: 15px;
     font-weight: 800;
+}
+.footer-content h5, h6{
+    font-size: 3vw;
 }
 
 }
