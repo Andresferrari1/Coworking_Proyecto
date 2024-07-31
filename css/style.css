@@ -476,9 +476,9 @@ h2{
         flex-direction: column;
     } 
     .container_info img {
-        /* height: 600px; 
-        width: min(100%); */
-        display: none;
+        height: 600px; 
+        width: min(100%);
+        /* display: none; */
     }
     .portafolio .container {
         flex-direction: column;
