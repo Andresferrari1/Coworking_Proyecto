@@ -523,6 +523,9 @@ h2{
     .contacto_section{
         padding-top: 20px;
     }
+    .contacto_section .contacto h2{
+        text-align: left;
+    }
     .contacto_form{
         padding: 30px;        
     }
