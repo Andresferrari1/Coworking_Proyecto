@@ -457,8 +457,8 @@ h2{
 
     .main{
         display: flex;
-        flex-direction: column;
-        padding-top: 130px;
+        flex-direction:row;
+        padding-top: 100px;
         text-align: center;
         justify-content: center;
         align-items: center;
@@ -470,7 +470,8 @@ h2{
         align-items: center;
     }
     .main img{
-        width: 30vw
+        width: 30vw;
+
     }
     .info_content__p{
         font-size: 10px;
