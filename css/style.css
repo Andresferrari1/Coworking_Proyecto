@@ -427,7 +427,7 @@ h2{
         font-size: 15px;
         transform: translateX(-110%);
         transition: all .7s ease-in-out;
-    }
+    } 
     .wrapper{
         height: 100vw;
         width: 100vw;
@@ -460,7 +460,10 @@ h2{
         flex-direction: column;
         padding-top: 130px;
         text-align: center;
-    } .main img{
+    } .main .h1{
+        font-size: 50px;
+    }
+    .main img{
         width: min(40%, 150px);
     }
     .info_content__p,
@@ -502,7 +505,7 @@ h2{
         font-weight: 600;
     }
     .contacto_form{
-        width: 80vw;
+        width: 50vw;
         padding: 30px;
         
     }
@@ -514,7 +517,7 @@ h2{
         padding: 10px;
         border: 2px solid #584545;
         border-radius: 30px 5px;
-        width: 80vw;
+        width: 50vw;
     }
 }
 
