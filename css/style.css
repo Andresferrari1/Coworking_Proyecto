@@ -420,7 +420,7 @@ h2{
         position: absolute;
         top: 0;
         left: 0;
-        height: 80vh;
+        height: 60vh;
         width: 150px;
         background-color:#30746d;
         z-index: 1;
@@ -458,7 +458,7 @@ h2{
     .main{
         display: flex;
         flex-direction:column;
-        padding-top: 260px;
+        padding-top: 250px;
         height: 50vw;
         width: 100%;
         text-align: center;
