@@ -519,13 +519,18 @@ h2{
 
     .portafolio .card .proyecto{
         border-radius: 8px;
-        color: #000000;
-        background-color: rgb(11, 141, 141) ;
+        color: #e2dede;
+        background-color: rgba(11, 141, 141, 0.678) ;
         padding: 8px;
         border: none;
         cursor: pointer;
         font-weight: 600;
+        font-family:sans-serif;
     }
+    .card .proyecto:hover{
+        background-color: #7065656e;
+    }
+    
     .contacto_section{
         padding-top: 20px;
     }
