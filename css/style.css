@@ -271,18 +271,18 @@ h2{
 
 .card .proyecto{
     border-radius: 10px;
-    color: #110e0e;
-    background-color: rgb(11, 141, 141) ;
+    color: #e2dede;
+    background-color: rgba(11, 141, 141, 0.678) ;
     padding: 10px;
     border: none;
     cursor: pointer;
     font-weight: 600;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:sans-serif;
     font-size: 15px;
 }
 
 .card .proyecto:hover{
-    background-color: #706565;
+    background-color: #7065656e;
 }
 
 /* ESTILOS CONTACTO */
